@@ -28,6 +28,6 @@ p {
 
 @media (min-width: 768px) {
   :host {
-    width: 20rem;
+    width: 18rem;
   }
 }
